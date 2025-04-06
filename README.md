@@ -1,4 +1,4 @@
-# okanc机场最新官方地址入口-优惠码-套餐指南
+# okanc机场最新官网地址入口-优惠码-套餐指南
 okanc机场是2023年底成立的 IEPL 专线机场，Shadowsocks 协议，多地 BGP 入口，目标用户是常看流媒体的人，套餐流量多。注册有免费试用。感兴趣的可以先试试再说。
 
 节点只包括6个常用地区：香港、日本、台湾、新加坡、美国、韩国
@@ -8,7 +8,7 @@ okanc机场是2023年底成立的 IEPL 专线机场，Shadowsocks 协议，多�
 节点没有倍率。
 支持支付宝和微信。
 
-[ OKANC机场官方入口](https://www.okanc.com/index.php#/register?code=HBn1Qqbu)
+[ OKANC机场官网入口](https://www.okanc.com/index.php#/register?code=HBn1Qqbu)
 * * *
 
 [**» 进入性价比机场-优惠活动中-高速/稳定/推荐-年付58元600GB、88元2300GB、送小火箭ID、小白专属客户端，1秒上手**](https://aa.silos.top/lepl/sxdxZeA8VV)以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
@@ -16,20 +16,40 @@ okanc机场是2023年底成立的 IEPL 专线机场，Shadowsocks 协议，多�
 [**» 进入便宜机场-量大价低-月付9.9元300GB、24元1000G、40元2000GB**-送小火箭ID](https://bb.silos.top/cheap/ew8KhPafvG)
 
 * * *
-## OKANC机场月付套餐
+## OKANC机场套餐
 
-Pro版 ¥46.00 /每月328GB流量， 多地BGP跨境专线，物理绕开封锁，流媒体支持Netfilx等媒体全天4k播放，ChatGPT等AIGC应用稳定使用，套餐优势，全球主流地区节点随心使用，设备支持5台设备同时使用。
-Max版 ¥52.00 /每月600GB流量，其他同上
-MAX+极致版 ¥88.00 /每月1024GB流量，其他同上
+### **套餐概览**
+
+| 套餐名称   | 价格      | 流量   | 设备数 |
+| ---------- | --------- | ------ | ------ |
+| Pro版      | ¥46.00/月 | 328GB  | 5台    |
+| Max版      | ¥52.00/月 | 600GB  | 5台    |
+| Max+极致版 | ¥88.00/月 | 1024GB | 5台    |
+
+### **特点**
+- **多地BGP跨境专线**：提供稳定的网络连接，物理绕开封锁。
+- **流媒体支持**：支持解锁Netflix等流媒体，全天4K播放。
+- **AI应用支持**：支持ChatGPT等AI应用的稳定使用。
+- **全球主流地区节点**：节点覆盖香港、日本、台湾、新加坡、美国等地区。
+- **设备支持**：支持多设备同时在线使用。
+
+### **推荐选择**
+- **轻度使用（日常浏览）** → Pro版（¥46.00/月）
+- **中等需求（流媒体使用）** → Max版（¥52.00/月）
+- **高流量需求（大规模下载）** → Max+极致版（¥88.00/月）
+
 ## okanc 机场优惠码
 38节优惠码：38018
+
+OKANC机场提供免费试用服务，注册后可获得3天3GB流量的试用机会。
+
 ##  OKANC机场测试
 
 测试速度可流畅观看Netflix、HBO MAX、Spotify、Disney+、Hulu 、Primevideo等流媒体与油管4K视频并支持支持ChatGPT
 ![image](https://github.com/user-attachments/assets/1b74d507-5495-433b-a10a-89c25d7d26ab)
 
 
-[ OKANC机场官方入口](https://www.okanc.com/index.php#/register?code=HBn1Qqbu)
+[ OKANC机场官网入口](https://www.okanc.com/index.php#/register?code=HBn1Qqbu)
 * * *
 
 [**» 进入性价比机场-优惠活动中-高速/稳定/推荐-年付58元600GB、88元2300GB、送小火箭ID、小白专属客户端，1秒上手**](https://aa.silos.top/lepl/sxdxZeA8VV)以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
